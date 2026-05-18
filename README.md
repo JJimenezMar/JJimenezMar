@@ -1,6 +1,6 @@
 ### Hi, I'm Jose 👋
 
-Full-stack developer based in Maracaibo, Venezuela. Five years of experience building business applications, REST APIs, and reporting systems for clients in the US and Latin America.
+Full-stack software Engineer based in Maracaibo, Venezuela. Five years of experience building business applications, REST APIs, and reporting systems for clients in the US and Latin America.
 
 I work end-to-end on what I ship: database design, backend APIs, frontend, and the integrations that hold them together. Lately I've been leaning more into TypeScript across the stack. On the SQL side I'm comfortable with everything from stored procedures and SSIS pipelines to T-SQL window functions and X12/820 EDI.
 
@@ -30,5 +30,5 @@ I work end-to-end on what I ship: database design, backend APIs, frontend, and t
 
 Open to remote opportunities with US and LATAM teams.
 
-- LinkedIn: [jose-jimenez-5679b51b9](https://www.linkedin.com/in/jose-jimenez-5679b51b9/)
+- LinkedIn: https://www.linkedin.com/in/jose-jimenez-marmol/
 - Email: jhjmarmol2000@gmail.com
